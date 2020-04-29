@@ -7,6 +7,7 @@ Main:
 * EID Viewer Framework 
 * EID PKCS11 Library
 * EID PKCS11 Bundle
+* Firefox Browser Plugin
 
 Extras:
 * libusb library and libusb compatibility library
