@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		lCyJIcR85QCvPtI9/tJiszuX6ck=
+		+3KZ08x77YdxOYsOhtpu09OU6lo=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
 		<data>
@@ -59,7 +59,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			oCoVORrTki6mzPJ5JS1/FHDLjpI=
+			2FhwXMiTaWZo7zy4ea25b1lVfWQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "be.fedict.BEIDToken.BEIDTokenApp.BEIDToken" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: catvampire35@gmail.com (VC2F3CGZ22)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xEhHWMRnDVKxInawZIiL/K1B3ob/K14HFFFVyOfhw5M=
+			0mYFp0EigX1nd9KwRpIupgrsaqv7CA1xfwoHi9wfjNo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib</key>
